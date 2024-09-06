@@ -36,7 +36,7 @@ int main() {
     cout << "You entered: " << inputString << endl;
     cout << "Reversed string: " << reversedString << endl;
     cout << "Number of vowels: " << vowelCount << endl;
-    cout << "Number of consonants: " << consonantCount << endl;
+    cout << "Numb of consonants: " << consonantCount << endl;
 
     return 0;
 }
